@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { fetchStock } from './api';
 import { StockTable } from './StockTable';
 import type { Stock } from './types';

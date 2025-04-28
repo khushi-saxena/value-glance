@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Stock } from './types';
 
 interface Props { stocks: Stock[]; }
